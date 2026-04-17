@@ -1,4 +1,4 @@
-# WAS 서버 문서
+# Web Application Server 문서
 
 > 프로젝트명: golden_shielders  
 > 작성일: 2026-04-16
